@@ -1,0 +1,14 @@
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/bin/Debug/netcoreapp2.1/helloworld.deps.json
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/bin/Debug/netcoreapp2.1/helloworld.runtimeconfig.json
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/bin/Debug/netcoreapp2.1/helloworld.runtimeconfig.dev.json
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/bin/Debug/netcoreapp2.1/helloworld.dll
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/bin/Debug/netcoreapp2.1/helloworld.pdb
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.csprojAssemblyReference.cache
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.csproj.CoreCompileInputs.cache
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.RazorAssemblyInfo.cache
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.RazorAssemblyInfo.cs
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.AssemblyInfoInputs.cache
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.AssemblyInfo.cs
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.RazorTargetAssemblyInfo.cache
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.dll
+/Users/dschenck/src/path-to-kubernetes/csharp/helloworld/obj/Debug/netcoreapp2.1/helloworld.pdb
