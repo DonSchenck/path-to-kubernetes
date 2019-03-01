@@ -11620,11 +11620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dschenck/src/path-to-kubernetes/fsharp/fsharp.fsproj",
-      "projectName": "fsharp",
-      "projectPath": "/Users/dschenck/src/path-to-kubernetes/fsharp/fsharp.fsproj",
+      "projectUniqueName": "/Users/dschenck/src/path-to-kubernetes/fsharp/helloworld/helloworld.fsproj",
+      "projectName": "helloworld",
+      "projectPath": "/Users/dschenck/src/path-to-kubernetes/fsharp/helloworld/helloworld.fsproj",
       "packagesPath": "/Users/dschenck/.nuget/packages/",
-      "outputPath": "/Users/dschenck/src/path-to-kubernetes/fsharp/obj/",
+      "outputPath": "/Users/dschenck/src/path-to-kubernetes/fsharp/helloworld/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
