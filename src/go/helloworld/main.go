@@ -12,7 +12,7 @@ import (
 func main() {
 	router := mux.NewRouter()
 	router.HandleFunc("/", GetHelloWorld).Methods("GET")
-	log.Fatal(http.ListenAndServe(":3333", router))
+	log.Fatal(http.ListenAndServe("0.0.0.0:3333", router))
 }
 
 func GetHelloWorld(w http.ResponseWriter, r *http.Request) {
